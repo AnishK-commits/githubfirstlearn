@@ -17,3 +17,7 @@ console.log('updating main after settin github n push main branch in origin fold
 let a=0;
 let b=89;
 let c=890;
+
+function add(){
+    return 8+90;
+}
